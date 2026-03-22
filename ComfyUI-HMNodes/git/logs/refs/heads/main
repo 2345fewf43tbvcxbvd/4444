@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 7cfd1fe0694c2bdc8a2a59f85a49d101227327f9 avivkaplan <avivkaplan00@gmail.com> 1765793774 +0200	commit (initial): feat: initial commit - ComfyUI-HMNodes with Realism Suite, Analogizer, and VLM captioning
+7cfd1fe0694c2bdc8a2a59f85a49d101227327f9 9c32bd4b9a67ca1e4393d71223dd5a76e4af1b28 avivkaplan <avivkaplan00@gmail.com> 1765793880 +0200	commit: chore: add .gitignore and remove cache/system files
